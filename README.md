@@ -1,4 +1,4 @@
-# Projeto Open House Laboratoria - Livros da Guilda(MVP)
+# Projeto Open House Laboratoria - Livros da Guilda (MVP)
 
 ## Índice
 
