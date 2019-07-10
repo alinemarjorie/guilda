@@ -2,7 +2,6 @@
 
 ## Índice
 
-* [Preâmbulo](#preâmbulo)
 * [Definição do produto](#definição_do_produto)
 * [Público alvo](#público_alvo)
 * [Testes de Usabilidade](#testes_de_usabilidade)
