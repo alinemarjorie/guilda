@@ -1,13 +1,5 @@
 # Projeto Open House Laboratoria - Livros da Guilda (MVP)
 
-## Índice
-
-* [Definição do produto](#definição_do_produto)
-* [Público alvo](#público_alvo)
-* [Testes de Usabilidade](#testes_de_usabilidade)
-* [Protótipos](#protótipos)
-
-
 ## Definição_do_produto
 
 O MVP do site Livros da Guilda foi desenvolvido tendo como base o conceito mobile first, com foco em usuários que jogam o sistema de RPG D&D, seja um jogador, um mestre ou até um iniciante curioso sobre as informações do sistema de jogo. Nosso produto reúne informações contidas em livros do sistema D&D, essenciais para a jogabilidade, como o livro do jogador e livro dos monstros, permitindo que os usuários utilizem menos ou até dispensem o uso de livros físicos ou digitais no momento de jogo.
